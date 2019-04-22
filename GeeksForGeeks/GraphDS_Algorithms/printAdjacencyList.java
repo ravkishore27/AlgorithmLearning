@@ -48,7 +48,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class GFG {
+public class PrintAdjacencyList {
 	public static void main (String[] args) {
 	    
 	    AdjacencyListGraph adjListGraph = null;
